@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmod Mahajna\.android\build-cache\0baf15cadd7b50d27fe78b2a1f6d0412a60e4890\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\Mahmod Mahajna\Desktop\ex2-master\app\build\intermediates\pre-dexed\debug\classes_6c908e2e654ce996f2ea4b155591b8d8451d9158.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmod Mahajna\.android\build-cache\25dc1e402a252e7ad1086df565ea516cdfce7ba2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\Mahmod Mahajna\Desktop\ex2-master\app\build\intermediates\pre-dexed\debug\classes_86ba8b5a6635a1431324aced5b8e2df310721a0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmod Mahajna\.android\build-cache\7418b18d2b2703d8e1d967467febad99028c6a4e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\Mahmod Mahajna\Desktop\ex2-master\app\build\intermediates\pre-dexed\debug\classes_9ceed614f36e439f6c75cee858ed3c836b136554.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmod Mahajna\.android\build-cache\9278b644f4ef89a4bd1c1c4cbf864e1d2a59526f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Mahmod Mahajna\Desktop\ex2-master\app\build\intermediates\pre-dexed\debug\classes_5520621987feab9c172e5e35fcdf6dca9ca45efe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmod Mahajna\.android\build-cache\e2187febaa05fb6417256a2e36ffecf6b79dae66\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Mahmod Mahajna\Desktop\ex2-master\app\build\intermediates\pre-dexed\debug\classes_d7f4735a92cce66602071344ad83591c83c2a263.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmod Mahajna\.android\build-cache\84adb977de49bc37890499d0664a8d391332dcfb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Mahmod Mahajna\Desktop\ex2-master\app\build\intermediates\pre-dexed\debug\classes_7098f9380e7cfccf8eed5b67eb3a0290bf8acc2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmod Mahajna\.android\build-cache\67800e7c4cb6f077fc7014dcab274d6545ff1ad1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\Mahmod Mahajna\Desktop\ex2-master\app\build\intermediates\pre-dexed\debug\classes_30c8d14896bad7ba8f85f4ff33e488d612e5a9e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmod Mahajna\.android\build-cache\31441648ef4467e19a869bcd87375e145da76360\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\Mahmod Mahajna\Desktop\ex2-master\app\build\intermediates\pre-dexed\debug\classes_3534a4512d01fa27a13c5ae56e07cbbf6bba9039.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmod Mahajna\.android\build-cache\23d43feb5bfa3ccacdd9cf7f274e5f71647a84f1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\Mahmod Mahajna\Desktop\ex2-master\app\build\intermediates\pre-dexed\debug\classes_92cca2525343321a9882add12806af4edb920fb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmod Mahajna\.android\build-cache\278790e49b67026532bcee3a427a89112e0b5c5f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\Mahmod Mahajna\Desktop\ex2-master\app\build\intermediates\pre-dexed\debug\classes_484bd02927bead6ed01b7e6fc52bfc6f1603b7e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmod Mahajna\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\Mahmod Mahajna\Desktop\ex2-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_df4f3d5d87dd0865b2d279253f53175348177e0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmod Mahajna\.android\build-cache\77220d111506abbfaecd53d6fc8252d98135d9f1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Mahmod Mahajna\Desktop\ex2-master\app\build\intermediates\pre-dexed\debug\classes_b1892098c2133e2b0fc0e802c838126f249a04fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mahmod Mahajna\.android\build-cache\67bd8043f9f8ad5fe772cd6b422c78f79cd0cadd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Mahmod Mahajna\Desktop\ex2-master\app\build\intermediates\pre-dexed\debug\classes_1aeb0316564e0ad2d3983e4a4a12a91239a7f3d0.jar" />
+    </item>
+
+</items>
